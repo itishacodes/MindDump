@@ -25,9 +25,20 @@ Dijkstra’s algorithm is mathematically perfect. It is guaranteed to find the a
 But this perfection has a massive computational cost: **it is directionally blind**.
 
 ```mermaid
-grid-select
-Dijkstra: Circular Search (explores 360 degrees)
-A* Search: Directed Beam (steers toward the goal)
+graph TD
+    subgraph Dijkstra: Blind 360° Expansion
+        A((Start)) --> B1((North))
+        A --> B2((South))
+        A --> B3((West))
+        A --> B4((East))
+        B1 --> C1((North-West))
+        B2 --> C2((South-East))
+        B3 --> C3((South-West))
+        B4 --> C4((Target))
+    end
+    subgraph A* Search: Guided Trajectory
+        X((Start)) -- "Heuristic Bias" --> Y((East)) --> Z((Target))
+    end
 ```
 
 If your destination is directly to the east, Dijkstra will still spend CPU cycles exploring paths to the north, south, and west. It behaves like a drop of water spreading on a napkin—it has to flood the entire space to find the exit. On a $1000 \times 1000$ game grid, this means checking up to a million coordinates for a simple path.
