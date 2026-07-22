@@ -26,7 +26,7 @@ But this perfection has a massive computational cost: **it is directionally blin
 
 ```mermaid
 graph TD
-    subgraph Dijkstra: Blind 360° Expansion
+    subgraph d1 ["Dijkstra: Blind 360° Expansion"]
         A((Start)) --> B1((North))
         A --> B2((South))
         A --> B3((West))
@@ -36,7 +36,7 @@ graph TD
         B3 --> C3((South-West))
         B4 --> C4((Target))
     end
-    subgraph A* Search: Guided Trajectory
+    subgraph a1 ["A* Search: Guided Trajectory"]
         X((Start)) -- "Heuristic Bias" --> Y((East)) --> Z((Target))
     end
 ```
