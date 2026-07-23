@@ -1,7 +1,7 @@
 ---
 title: "TIL: The CSS field-sizing Cheatcode"
 tags:
-  - Randoms
+  - Ideas
   - CSS
   - Frontend
 ---
