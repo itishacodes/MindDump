@@ -1,4 +1,5 @@
 ---
+date: 2026-07-21
 title: "My LLM Kept Gaslighting Me, So I Built a Fake Document Pipeline to Stop It"
 tags:
   - AI

@@ -1,4 +1,5 @@
 ---
+date: 2026-06-29
 title: "SpaceJunk: Building a Collaborative Galaxy Canvas for Cosmic Debris"
 tags:
   - HTML5-Canvas

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-12
 title: "Perspective Machine: Building a Tactile Multi-Agent Reasoning Terminal"
 tags:
   - Next-JS

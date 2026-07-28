@@ -1,4 +1,5 @@
 ---
+date: 2026-07-25
 title: "Writing a Single-Neuron Brain from Scratch in 30 Lines of JS"
 tags:
   - AI

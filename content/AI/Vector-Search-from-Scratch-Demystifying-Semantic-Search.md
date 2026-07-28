@@ -1,4 +1,5 @@
 ---
+date: 2026-07-14
 title: "Vector Search from Scratch: Demystifying Semantic Search"
 tags:
   - AI

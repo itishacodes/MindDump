@@ -1,4 +1,5 @@
 ---
+date: 2026-07-22
 title: "I Let Two AI Agents Argue in My Terminal to Fix My Bugs"
 tags:
   - AI

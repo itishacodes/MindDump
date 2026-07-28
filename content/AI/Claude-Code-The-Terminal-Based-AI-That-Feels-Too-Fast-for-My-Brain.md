@@ -1,4 +1,5 @@
 ---
+date: 2026-07-16
 title: "Claude Code: The Terminal-Based AI That Feels Too Fast for My Brain"
 tags:
   - AI

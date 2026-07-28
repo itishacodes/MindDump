@@ -1,4 +1,5 @@
 ---
+date: 2026-07-24
 title: "A* Pathfinding: The Heuristic Trick That Keeps Game Engines at 60 FPS"
 tags:
   - AI

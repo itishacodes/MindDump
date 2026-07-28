@@ -1,4 +1,5 @@
 ---
+date: 2026-05-25
 title: "Retro Mac CRT: Client-Side Image to ASCII Compiler"
 tags:
   - React

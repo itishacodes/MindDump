@@ -1,4 +1,5 @@
 ---
+date: 2026-07-15
 title: "The Token Tax: Why Formatting JSON is Killing Your API Budget"
 tags:
   - AI

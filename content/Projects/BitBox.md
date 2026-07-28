@@ -1,4 +1,5 @@
 ---
+date: 2026-05-18
 title: "BitBox: Generative Chiptune Synthesizer on a Zero-Dependency Canvas"
 tags:
   - HTML5-Canvas

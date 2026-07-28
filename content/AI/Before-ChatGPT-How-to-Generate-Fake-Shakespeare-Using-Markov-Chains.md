@@ -1,4 +1,5 @@
 ---
+date: 2026-07-26
 title: "Before ChatGPT: How to Generate Fake Shakespeare Using Markov Chains"
 tags:
   - AI

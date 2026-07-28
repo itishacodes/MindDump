@@ -1,4 +1,5 @@
 ---
+date: 2026-07-06
 title: "Roomify: Turning 2D Blueprints into 3D Renders with Gemini and Puter"
 tags:
   - React

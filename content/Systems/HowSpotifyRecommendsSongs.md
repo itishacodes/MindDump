@@ -1,4 +1,5 @@
 ---
+date: 2026-07-10
 title: "How Spotify Recommends Songs: The Matrix Factorization Math"
 tags:
   - Systems

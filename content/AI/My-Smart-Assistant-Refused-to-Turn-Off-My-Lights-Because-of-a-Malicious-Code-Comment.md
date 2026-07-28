@@ -1,4 +1,5 @@
 ---
+date: 2026-07-23
 title: "My Smart Assistant Refused to Turn Off My Lights Because of a Malicious Code Comment"
 tags:
   - AI

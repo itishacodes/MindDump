@@ -1,4 +1,5 @@
 ---
+date: 2026-06-22
 title: "SortFlow: Real-Time Warehouse Simulator with Dijkstra's Pathfinder"
 tags:
   - React

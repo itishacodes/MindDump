@@ -1,4 +1,5 @@
 ---
+date: 2026-05-10
 title: "Paint95: Building a Windows 95 Drawing Studio from Scratch"
 tags:
   - HTML5-Canvas

@@ -1,4 +1,5 @@
 ---
+date: 2026-07-18
 title: "TIL: The CSS field-sizing Cheatcode"
 tags:
   - Ideas

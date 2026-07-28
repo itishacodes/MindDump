@@ -1,4 +1,5 @@
 ---
+date: 2026-06-01
 title: "Blinky.ai: Building a Neural Swarm Sandbox from Scratch"
 tags:
   - AI
