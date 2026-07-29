@@ -2,7 +2,7 @@
 date: 2026-07-28
 title: "July 2026: Late-Night Vibe Coding & Monthly Recap"
 tags:
-  - Life
+  - Randoms
   - Reflections
   - Dev-Log
 ---

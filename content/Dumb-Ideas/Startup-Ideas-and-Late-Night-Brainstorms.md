@@ -2,7 +2,7 @@
 date: 2026-07-27
 title: "Startup Ideas & Late-Night Brainstorms"
 tags:
-  - Ideas
+  - Dumb Ideas
   - Startup
   - Projects
 ---
