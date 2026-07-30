@@ -12,7 +12,7 @@
     "url": "https://github.com/itishacodes/MindDump.git"
   },
   "scripts": {
-    "dev": "node ./quartz/bootstrap-cli.mjs build --serve --port 8090",
+    "dev": "node ./quartz/bootstrap-cli.mjs build --serve --port 8090 --baseDir blog",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "node ./quartz/bootstrap-cli.mjs build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
